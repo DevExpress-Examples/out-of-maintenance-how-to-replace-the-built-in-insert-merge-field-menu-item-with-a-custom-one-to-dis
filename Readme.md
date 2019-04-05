@@ -4,7 +4,7 @@
 * [CustomClasses.cs](./CS/WpfApplication1/Data/CustomClasses.cs) (VB: [CustomClasses.vb](./VB/WpfApplication1/Data/CustomClasses.vb))
 * [DataHelper.cs](./CS/WpfApplication1/Data/DataHelper.cs) (VB: [DataHelper.vb](./VB/WpfApplication1/Data/DataHelper.vb))
 * [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
-* **[MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))**
+* **[MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))**
 <!-- default file list end -->
 # How to replace the built-in "Insert Merge Field" menu item with a custom one to display the referenced object's properties
 
